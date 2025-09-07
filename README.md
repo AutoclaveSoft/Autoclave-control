@@ -10,7 +10,7 @@ RUS:
 EN: 
 Install ZIP-file on your PC/laptop. 
 Install a font named Minecraft Rus Regular (minecraft.ttf) on your PC/laptop from ZIP-file. 
-You can do this by clicking on the file 2 times, then click Install in the window. 
+You can do this by clicking on the file 2 times, then click "Install" in the window. 
 After that, unzip the ZIP file to any folder on your device (do not delete files!). 
 You can create a shortcut on your Desktop for quick access to the application. 
 The application weight is approximately 35-38 MB. 
