@@ -1,18 +1,9 @@
 RUS:
-Скачайте ZIP-файл на Ваш ПК/ноутбук.
-Установите на ПК/ноутбук шрифт с названием Minecraft Rus Regular (minecraft.ttf) из ZIP-файла. 
-Сделать это можно, кликнув 2 раза на файл, далее в окне кнопку "Установить". 
-После этого разархивируйте ZIP-файл в любую папку на устройстве, перенесите туда файл "Autoclave control.z01" (не удаляйте файлы!). 
-Перенесите ярлык "Autoclave control" на Рабочий стол, и у Вас будет быстрый доступ к прложению. 
-Вес приложения примерно 35-38 Мб. 
-Вес ZIP-файла 11 Мб. 
+Скачайте три ОБЯЗАТЕЛЬНЫХ файла, и поместите их в одну и ту же папку: "Autoclave control.exe", "minecraft.ttf" и "ico.ico".
+Если при запуске приложения выводит ошибку, проверьте, что все файла установлены и находятся в одной и той же папке.
+Также, для быстрого доступа к приложению вы можете создать ярлык на рабочем столе.
 
 EN: 
-Install ZIP-file on your PC/laptop. 
-Install a font named Minecraft Rus Regular (minecraft.ttf) on your PC/laptop from ZIP-file. 
-You can do this by clicking on the file 2 times, then click "Install" in the window. 
-After that, unzip the ZIP file to any folder on your device, transfer the file "Autoclave control.z01" there (do not delete files!). 
-You can create a shortcut on your Desktop for quick access to the application. 
-Transfer the "Autoclave control" shortcut to your Desktop, and you will have quick access to the application. 
-The application weight is approximately 35-38 MB. 
-The ZIP file weight is 11 MB. 
+Download the three REQUIRED files and place them in the same folder: "Autoclave control.exe ", "minecraft.ttf" and "ico.ico".
+If an error is displayed when launching the application, make sure that all files are installed and located in the same folder.
+You can also create a shortcut on your desktop for quick access to the application.
