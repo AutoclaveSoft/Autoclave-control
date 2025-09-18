@@ -10,5 +10,4 @@ To move the "Autoclave" file control.exe ", it is necessary to unzip the archive
 If an error is displayed when launching the application, make sure that all files are installed and located in the same folder.
 You can also create a shortcut on your desktop for quick access to the application.
 
-Совет: c Google Drive установить легче
-Tip: it's easier to install from Google Drive
+Совет: c Google Drive установить легче                                                                                                     Tip: it's easier to install from Google Drive
